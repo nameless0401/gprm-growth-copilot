@@ -1,0 +1,17 @@
+[
+  {"handle":"galienafrique","cluster":"medicine_dakar","rationale":"Médecine + Afrique + Dakar : forte proximité avec l'identité du compte.","priority":100},
+  {"handle":"10kmdedakar","cluster":"running_dakar","rationale":"Communauté Dakar déjà cohérente avec le contenu 10 km existant.","priority":92},
+  {"handle":"pathedakar","cluster":"lifestyle_dakar","rationale":"Grande surface locale : commenter seulement lorsqu'un post s'y prête réellement.","priority":85},
+  {"handle":"marathondusenegal","cluster":"running_senegal","rationale":"Running + Sénégal, bon voisinage de découverte locale.","priority":82},
+  {"handle":"lasslifesn","cluster":"lifestyle_dakar","rationale":"Sorties et lifestyle Dakar, utile pour élargir au-delà de la médecine.","priority":78},
+  {"handle":"mbolo.gabon","cluster":"gabon_lifestyle","rationale":"Audience Gabon/Libreville très proche de l'audience actuelle.","priority":88},
+  {"handle":"globe.ga","cluster":"gabon_lifestyle","rationale":"Visibilité locale Gabon/Libreville ; interaction sélective seulement.","priority":82},
+  {"handle":"gabaovintage","cluster":"gabon_culture","rationale":"Culture gabonaise et identité locale.","priority":76},
+  {"handle":"gabonref","cluster":"gabon_community","rationale":"Communauté gabonaise/diaspora pertinente.","priority":75},
+  {"handle":"thedripgabonn","cluster":"gabon_lifestyle","rationale":"Mode/lifestyle Gabon, priorité secondaire.","priority":65},
+  {"handle":"promo_med.pharm_2026","cluster":"medicine_dakar","rationale":"Petit réseau médical/pharmaceutique : pertinence supérieure au volume brut.","priority":90},
+  {"handle":"uahb_dakar","cluster":"university_dakar","rationale":"Communauté universitaire dakaroise et proximité réseau.","priority":86},
+  {"handle":"medicalpro_sn","cluster":"medicine_senegal","rationale":"Médecine Sénégal : audience qualifiée.","priority":88},
+  {"handle":"cortex_prosmed","cluster":"medicine_senegal","rationale":"Médecine/étudiants, cohérent avec Cortex et la trajectoire professionnelle.","priority":87},
+  {"handle":"fikra.concept","cluster":"events_dakar","rationale":"Événement/innovation/université : intersection locale utile.","priority":70}
+]
