@@ -6,6 +6,8 @@ from .seed import seed
 from .routes import meta, telegram, admin
 from .services.scheduler import scheduler_loop
 
+# Deployment marker: ensures Railway rebuilds from the current GitHub HEAD.
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
